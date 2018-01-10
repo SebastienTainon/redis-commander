@@ -6,12 +6,12 @@
     "Alex Ehrnschwender <alexanderscott46@gmail.com>",
     "Matthew Scragg <scragg@gmail.com>"
   ],
-  "name": "redis-commander",
+  "name": "yoopies-redis-commander",
   "version": "0.4.2",
   "description": "Redis web-based management tool written in node.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joeferner/redis-commander.git"
+    "url": "git://github.com/Yoopies/redis-commander.git"
   },
   "keywords": [
     "redis",
